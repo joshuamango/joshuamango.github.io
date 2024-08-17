@@ -29,7 +29,7 @@ url: "https://joshuamango.github.io" # the base hostname & protocol for your sit
 github_username:  joshuamango
 
 # Build settings
-theme: minima
+theme: cayman
 plugins:
   - jekyll-feed
 
