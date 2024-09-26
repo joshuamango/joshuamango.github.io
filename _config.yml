@@ -24,6 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 domain: joshuaodeyemi.github.io
 url: "https://joshuamango.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+email: ajoshuaodeyemi[at]gmail[dot]com
 
 # Build settings
 #remote_theme: pages-themes/cayman@v0.2.0
