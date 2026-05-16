@@ -10,5 +10,7 @@ scalable applications that create simple yet elegant experiences for end
 users.
 
 [LinkedIn](https://www.linkedin.com/in/joshua-odeyemi-88296715b)
+
 [GitHub](https://www.github.com/joshuamango)
+
 [Stack Overflow](https://stackoverflow.com/users/11262557/joshuamango)
