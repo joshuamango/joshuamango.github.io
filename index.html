@@ -5,20 +5,29 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Google+Sans+Code:ital,wght,MONO@0,300..800,1;1,300..800,1&family=Google+Sans:ital,opsz,wght@0,17..18,400..700;1,17..18,400..700&display=swap" rel="stylesheet">
     <style>
+        :root {
+            --textColor: #cad3f5;
+            --backgroundColor: #24273a;
+        }
+
         body {
             display: flex;
             justify-content: center;
             align-items: center;
             height: 98vh;
-            background-color: #bbb2b2;
+            background-color: var(--backgroundColor);
             font-family: "Google Sans", sans-serif;
-            color: rgb(84, 58, 16);
+            color: var(--textColor);
         }
         h1 {
             font-size: 48px;
         }
         p:first-of-type {
             font-size: 20px;
+        }
+
+        a {
+            color: var(--textColor);
         }
     </style>
 </head>
